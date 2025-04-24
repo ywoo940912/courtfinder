@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Fair Oaks Tennis Center",
+    "address": "1460 W Booth Rd Ext SW, Marietta, GA 30008",
+    "lat": 33.92070009617109, 
+    "lng": -84.55843562803233
+  },
+  {
+    "name": "Harrison Tennis Center",
+    "address": "2653 Shallowford Rd, Marietta, GA 30066",
+    "lat":  34.039541281564695, 
+    "lng": -84.46541898013066
+  },
+  {
+    "name": "Kennworth Tennis Center",
+    "address": "3900 S Main St, Acworth, GA 30101",
+    "lat": 34.049667078497215, 
+    "lng": -84.65721666815645
+  },
+  {
+    "name": "Lost Mountain Tennis Center",
+    "address": "4845 Dallas Hwy, Powder Springs, GA 30127",
+    "lat": 33.940211882760885,
+    "lng": -84.69567768997898
+  },
+    {
+    "name": "Sweetwater Tennis Center",
+    "address": "2447 Clay Rd SW, Austell, GA 30106",
+    "lat": 33.83323062707038, 
+    "lng": -84.61866917004578
+  },
+  {
+    "name": "Terrell Mill Tennis Center",
+    "address": "480 Terrell Mill Rd SE, Marietta, GA 30067",
+    "lat": 33.93890825505266, 
+    "lng": -84.46106731899144
+  },
+  {
+    "name": "Big Shanty Park",
+    "address": "2050 Kennesaw Due West Rd NW, Kennesaw, GA 30152",
+    "lat": 34.00480461349003, 
+    "lng": -84.61521973471321
+  },
+  {
+    "name": "Fullers Park",
+    "address": "3499 Robinson Rd, Marietta, GA 30068",
+    "lat": 33.973073428870634, 
+    "lng": -84.44828539616078
+  },
+  {
+    "name": "Hurt Road Park",
+    "address": "990 Hurt Rd, Austell, GA 30106",
+    "lat": 33.86678074081207, 
+    "lng": -84.57589519853217
+  },
+  {
+    "name": "Larry Bell Park",
+    "address": "592 Fairground St SE, Marietta, GA 30060",
+    "lat": 33.94243816871392, 
+    "lng": -84.5337364745436
+  },
+  {
+    "name": "Nickajack Park",
+    "address": "5500 Nickajack Park Rd, Mableton, GA 30126",
+    "lat": 33.81743007480698, 
+    "lng": -84.50095270658326
+  },
+  {
+    "name": "Oregon Park",
+    "address": "145 Old Hamilton Rd, Marietta, GA 30064",
+    "lat": 33.95901784949013, 
+    "lng": -84.6673023995949
+  },
+  {
+    "name": "Rhyne Park",
+    "address": "4145 King Springs Rd SE, Smyrna, GA 30082",
+    "lat": 33.85427060058953, 
+    "lng": -84.5087284609976
+  },
+  {
+    "name": "Sewell Park",
+    "address": "2055 Lower Roswell Rd, Marietta, GA 30068",
+    "lat": 33.95409566422005, 
+    "lng": -84.490935006511
+  },
+  {
+    "name": "Shaw Park",
+    "address": "800 Shaw Park Rd, Marietta, GA 30066",
+    "lat": 34.02623939118269, 
+    "lng": -84.52428154346757
+  },
+  {
+    "name": "Skip Wells Park",
+    "address": "2334 Bells Ferry Rd, Marietta, GA 30066",
+    "lat": 34.00840469710104, 
+    "lng": -84.53889513470432
+  },
+  {
+    "name": "Sweat Mountain Park",
+    "address": "4346 Steinhauer Rd, Marietta, GA 30066",
+    "lat": 34.056252760021515, 
+    "lng": -84.47167217736826
+  },
+  {
+    "name": "Wallace Park",
+    "address": "6289 Pisgah Rd SW, Austell, GA 30168",
+    "lat": 33.800720052877516, 
+    "lng": -84.58136172724838
+  },
+  {
+    "name": "Wild Horse Creek Park",
+    "address": "3050 Hopkins Rd, Powder Springs, GA 30127",
+    "lat": 33.879433046742655, 
+    "lng": -84.66319197280393
+  }
+]
